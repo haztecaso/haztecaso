@@ -1,16 +1,21 @@
-### Hi there 👋
+Hola, soy Adrián Lattes. Actualmente estoy terminando el grado en matemáticas y trabajando a media jornada como investigador en una cooperativa del sector I+D+i.
 
-<!--
-**haztecaso/haztecaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Proyectos de la carrera
 
-Here are some ideas to get you started:
+- Estoy aprendiendo a utilizar ordenadores para demostrar resultados matemáticos, por ejemplo mediante mi [trabajo de fin de grado](/haztecaso/euclidean-geometry-lean) en Lean.
+- Durante la carrera he ido publicando códigos y ejercicios de asignaturas:
+  - Entregas de [Álgebra computational](/haztecaso/acomp22), en python.
+  - Entregas de [Geometría computational](/haztecaso/gcomp22), en python.
+  - Entregas e implementaciones de tipos de datos para la asignatura de [Estructuras de datos](https://github.com/haztecaso/edat21), en c++.
+  - Entregas de [Análisis numérico para ecuaciones diferenciales](https://github.com/haztecaso/annu20), en matlab.
+  - Apuntes inconclusos de [Ecuaciones algebraicas](/haztecaso/eal21), en LaTeX.
+  - Entragas de [Programación paralela](/haztecaso/paralela21), en python.
+  - Entrega de [Optimización)[/haztecaso/opti-entrega]
+  - Entrega de [Programación declarativa](/haztecaso/prde20-entrega), en haskell.
+  
+### Proyectos personales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- En el repositorio [nixos-configs](./nixos-configs) puedes encontrar mis configuraciones de mis máquinas linux y software que utilizo (nixos es la distribución que utilizo).
+- En [neovim-flake](./neovim-flake) está la configuración de mi editor de texto, *neovim*, utilizando [*flakes*](https://nixos.wiki/wiki/Flakes).
+- [jobo_bot](./jobo_bot) es un bot de telegram para estar al día de los eventos de Jobo, el abono de cultura joven del Ayuntamiento de Madrid.
+- [impo](./impo) es un script de python para imposicionar documentos pdf.
