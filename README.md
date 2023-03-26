@@ -21,3 +21,4 @@ Hola, soy Adrián Lattes. Actualmente estoy terminando el grado en matemáticas 
 - En [neovim-flake](https://github.com/haztecaso/neovim-flake) está la configuración de mi editor de texto, *neovim*, utilizando [*flakes*](https://nixos.wiki/wiki/Flakes).
 - [jobo_bot](https://github.com/haztecaso/jobo_bot) es un bot de telegram para estar al día de los eventos de Jobo, el abono de cultura joven del Ayuntamiento de Madrid.
 - [impo](https://github.com/haztecaso/impo) es un script de python para imposicionar documentos pdf.
+- Proyectos de [arte generativo](https://github.com/haztecaso/p5js) en p5js.
