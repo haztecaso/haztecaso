@@ -4,7 +4,7 @@ Hola, soy Adrián Lattes. Actualmente estoy terminando el grado en matemáticas 
 
 #### Proyectos de la carrera
 
-- Estoy aprendiendo a utilizar ordenadores para demostrar resultados matemáticos, por ejemplo mediante mi [trabajo de fin de grado](/haztecaso/euclidean-geometry-lean) en Lean.
+- Estoy aprendiendo a utilizar ordenadores para demostrar resultados matemáticos, por ejemplo mediante mi [trabajo de fin de grado](https://github.com/haztecaso/euclidean-geometry-lean) en Lean.
 - Durante la carrera he ido publicando códigos y ejercicios de asignaturas:
   - Entregas e implementaciones de tipos de datos para la asignatura de [Estructuras de datos](https://github.com/haztecaso/edat21), en c++.
   - Entragas de [Programación paralela](https://github.com/haztecaso/paralela21), en python. Las [entregas de spark](https://github.com/haztecaso/practicas-spark) están en un repositorio separado.
