@@ -13,7 +13,7 @@ Hola, soy Adrián Lattes. Actualmente estoy terminando el grado en matemáticas 
   - Entregas de [Geometría computational](https://github.com/haztecaso/gcomp22), en python.
   - Entregas de [Análisis numérico para ecuaciones diferenciales](https://github.com/haztecaso/annu20), en matlab.
   - Apuntes inconclusos de [Ecuaciones algebraicas](https://github.com/haztecaso/eal21), en LaTeX.
-  - Entrega de [Optimización)(https://github.com/haztecaso/opti-entrega)
+  - Entrega de [Optimización](https://github.com/haztecaso/opti-entrega)
   
 #### Proyectos personales
 
