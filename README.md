@@ -1,6 +1,6 @@
 ### Sobre mí
 
-Hola, soy Adrián Lattes. Actualmente estoy terminando el grado en matemáticas y trabajando a media jornada como investigador en una cooperativa del sector I+D+i. En mi tiempo libre me gusta escuchar música, hacer programas de radio, cacharrear con ordenadores y viajar en bicicleta.
+Hola, soy Adrián Lattes. Estudié el grado de matemáticas. Me gusta escuchar y aprender sobre música, hacer programas de radio, cacharrear con ordenadores y viajar en bicicleta.
 
 #### Proyectos de la carrera
 
